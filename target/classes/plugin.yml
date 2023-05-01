@@ -1,6 +1,0 @@
-name: "Prefix"
-version: "1.0"
-author: "MEFRREEX"
-
-api: ["1.0.13"]
-main: com.mefrreex.prefix.Main
