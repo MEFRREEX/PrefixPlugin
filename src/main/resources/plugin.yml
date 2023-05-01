@@ -1,0 +1,6 @@
+name: "${project.name}"
+version: "${project.version}"
+author: "MEFRREEX"
+
+api: ["1.0.13"]
+main: com.mefrreex.prefix.Main
